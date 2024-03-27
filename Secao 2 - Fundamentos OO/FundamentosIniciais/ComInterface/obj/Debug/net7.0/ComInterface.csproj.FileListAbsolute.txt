@@ -1,0 +1,15 @@
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\Secao 2 - Fundamentos OO\FundamentosIniciais\ComInterface\bin\Debug\net7.0\ComInterface.exe
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\Secao 2 - Fundamentos OO\FundamentosIniciais\ComInterface\bin\Debug\net7.0\ComInterface.deps.json
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\Secao 2 - Fundamentos OO\FundamentosIniciais\ComInterface\bin\Debug\net7.0\ComInterface.runtimeconfig.json
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\Secao 2 - Fundamentos OO\FundamentosIniciais\ComInterface\bin\Debug\net7.0\ComInterface.dll
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\Secao 2 - Fundamentos OO\FundamentosIniciais\ComInterface\bin\Debug\net7.0\ComInterface.pdb
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\Secao 2 - Fundamentos OO\FundamentosIniciais\ComInterface\obj\Debug\net7.0\ComInterface.csproj.AssemblyReference.cache
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\Secao 2 - Fundamentos OO\FundamentosIniciais\ComInterface\obj\Debug\net7.0\ComInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\Secao 2 - Fundamentos OO\FundamentosIniciais\ComInterface\obj\Debug\net7.0\ComInterface.AssemblyInfoInputs.cache
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\Secao 2 - Fundamentos OO\FundamentosIniciais\ComInterface\obj\Debug\net7.0\ComInterface.AssemblyInfo.cs
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\Secao 2 - Fundamentos OO\FundamentosIniciais\ComInterface\obj\Debug\net7.0\ComInterface.csproj.CoreCompileInputs.cache
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\Secao 2 - Fundamentos OO\FundamentosIniciais\ComInterface\obj\Debug\net7.0\ComInterface.dll
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\Secao 2 - Fundamentos OO\FundamentosIniciais\ComInterface\obj\Debug\net7.0\refint\ComInterface.dll
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\Secao 2 - Fundamentos OO\FundamentosIniciais\ComInterface\obj\Debug\net7.0\ComInterface.pdb
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\Secao 2 - Fundamentos OO\FundamentosIniciais\ComInterface\obj\Debug\net7.0\ComInterface.genruntimeconfig.cache
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\Secao 2 - Fundamentos OO\FundamentosIniciais\ComInterface\obj\Debug\net7.0\ref\ComInterface.dll

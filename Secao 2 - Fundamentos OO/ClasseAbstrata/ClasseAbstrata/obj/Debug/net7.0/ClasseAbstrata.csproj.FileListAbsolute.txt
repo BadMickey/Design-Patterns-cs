@@ -1,0 +1,15 @@
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\ClasseAbstrata\ClasseAbstrata\bin\Debug\net7.0\ClasseAbstrata.exe
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\ClasseAbstrata\ClasseAbstrata\bin\Debug\net7.0\ClasseAbstrata.deps.json
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\ClasseAbstrata\ClasseAbstrata\bin\Debug\net7.0\ClasseAbstrata.runtimeconfig.json
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\ClasseAbstrata\ClasseAbstrata\bin\Debug\net7.0\ClasseAbstrata.dll
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\ClasseAbstrata\ClasseAbstrata\bin\Debug\net7.0\ClasseAbstrata.pdb
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\ClasseAbstrata\ClasseAbstrata\obj\Debug\net7.0\ClasseAbstrata.csproj.AssemblyReference.cache
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\ClasseAbstrata\ClasseAbstrata\obj\Debug\net7.0\ClasseAbstrata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\ClasseAbstrata\ClasseAbstrata\obj\Debug\net7.0\ClasseAbstrata.AssemblyInfoInputs.cache
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\ClasseAbstrata\ClasseAbstrata\obj\Debug\net7.0\ClasseAbstrata.AssemblyInfo.cs
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\ClasseAbstrata\ClasseAbstrata\obj\Debug\net7.0\ClasseAbstrata.csproj.CoreCompileInputs.cache
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\ClasseAbstrata\ClasseAbstrata\obj\Debug\net7.0\ClasseAbstrata.dll
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\ClasseAbstrata\ClasseAbstrata\obj\Debug\net7.0\refint\ClasseAbstrata.dll
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\ClasseAbstrata\ClasseAbstrata\obj\Debug\net7.0\ClasseAbstrata.pdb
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\ClasseAbstrata\ClasseAbstrata\obj\Debug\net7.0\ClasseAbstrata.genruntimeconfig.cache
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\ClasseAbstrata\ClasseAbstrata\obj\Debug\net7.0\ref\ClasseAbstrata.dll

@@ -1,0 +1,30 @@
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\DesignPatterns\DesignPatterns\bin\Debug\net7.0\ClasseAcoplamento.exe
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\DesignPatterns\DesignPatterns\bin\Debug\net7.0\ClasseAcoplamento.deps.json
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\DesignPatterns\DesignPatterns\bin\Debug\net7.0\ClasseAcoplamento.runtimeconfig.json
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\DesignPatterns\DesignPatterns\bin\Debug\net7.0\ClasseAcoplamento.dll
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\DesignPatterns\DesignPatterns\bin\Debug\net7.0\ClasseAcoplamento.pdb
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\DesignPatterns\DesignPatterns\obj\Debug\net7.0\ClasseAcoplamento.csproj.AssemblyReference.cache
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\DesignPatterns\DesignPatterns\obj\Debug\net7.0\ClasseAcoplamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\DesignPatterns\DesignPatterns\obj\Debug\net7.0\ClasseAcoplamento.AssemblyInfoInputs.cache
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\DesignPatterns\DesignPatterns\obj\Debug\net7.0\ClasseAcoplamento.AssemblyInfo.cs
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\DesignPatterns\DesignPatterns\obj\Debug\net7.0\ClasseAcoplamento.csproj.CoreCompileInputs.cache
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\DesignPatterns\DesignPatterns\obj\Debug\net7.0\ClasseAcoplamento.dll
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\DesignPatterns\DesignPatterns\obj\Debug\net7.0\refint\ClasseAcoplamento.dll
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\DesignPatterns\DesignPatterns\obj\Debug\net7.0\ClasseAcoplamento.pdb
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\DesignPatterns\DesignPatterns\obj\Debug\net7.0\ClasseAcoplamento.genruntimeconfig.cache
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\DesignPatterns\DesignPatterns\obj\Debug\net7.0\ref\ClasseAcoplamento.dll
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\Secao 2 - Fundamentos OO\FundamentosIniciais\DesignPatterns\bin\Debug\net7.0\ClasseAcoplamento.exe
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\Secao 2 - Fundamentos OO\FundamentosIniciais\DesignPatterns\bin\Debug\net7.0\ClasseAcoplamento.deps.json
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\Secao 2 - Fundamentos OO\FundamentosIniciais\DesignPatterns\bin\Debug\net7.0\ClasseAcoplamento.runtimeconfig.json
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\Secao 2 - Fundamentos OO\FundamentosIniciais\DesignPatterns\bin\Debug\net7.0\ClasseAcoplamento.dll
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\Secao 2 - Fundamentos OO\FundamentosIniciais\DesignPatterns\bin\Debug\net7.0\ClasseAcoplamento.pdb
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\Secao 2 - Fundamentos OO\FundamentosIniciais\DesignPatterns\obj\Debug\net7.0\ClasseAcoplamento.csproj.AssemblyReference.cache
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\Secao 2 - Fundamentos OO\FundamentosIniciais\DesignPatterns\obj\Debug\net7.0\ClasseAcoplamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\Secao 2 - Fundamentos OO\FundamentosIniciais\DesignPatterns\obj\Debug\net7.0\ClasseAcoplamento.AssemblyInfoInputs.cache
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\Secao 2 - Fundamentos OO\FundamentosIniciais\DesignPatterns\obj\Debug\net7.0\ClasseAcoplamento.AssemblyInfo.cs
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\Secao 2 - Fundamentos OO\FundamentosIniciais\DesignPatterns\obj\Debug\net7.0\ClasseAcoplamento.csproj.CoreCompileInputs.cache
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\Secao 2 - Fundamentos OO\FundamentosIniciais\DesignPatterns\obj\Debug\net7.0\ClasseAcoplamento.dll
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\Secao 2 - Fundamentos OO\FundamentosIniciais\DesignPatterns\obj\Debug\net7.0\refint\ClasseAcoplamento.dll
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\Secao 2 - Fundamentos OO\FundamentosIniciais\DesignPatterns\obj\Debug\net7.0\ClasseAcoplamento.pdb
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\Secao 2 - Fundamentos OO\FundamentosIniciais\DesignPatterns\obj\Debug\net7.0\ClasseAcoplamento.genruntimeconfig.cache
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\Secao 2 - Fundamentos OO\FundamentosIniciais\DesignPatterns\obj\Debug\net7.0\ref\ClasseAcoplamento.dll

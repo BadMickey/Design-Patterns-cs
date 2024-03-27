@@ -1,0 +1,15 @@
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\Secao 2 - Fundamentos OO\FundamentosIniciais\SemInterface\bin\Debug\net7.0\SemInterface.exe
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\Secao 2 - Fundamentos OO\FundamentosIniciais\SemInterface\bin\Debug\net7.0\SemInterface.deps.json
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\Secao 2 - Fundamentos OO\FundamentosIniciais\SemInterface\bin\Debug\net7.0\SemInterface.runtimeconfig.json
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\Secao 2 - Fundamentos OO\FundamentosIniciais\SemInterface\bin\Debug\net7.0\SemInterface.dll
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\Secao 2 - Fundamentos OO\FundamentosIniciais\SemInterface\bin\Debug\net7.0\SemInterface.pdb
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\Secao 2 - Fundamentos OO\FundamentosIniciais\SemInterface\obj\Debug\net7.0\SemInterface.csproj.AssemblyReference.cache
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\Secao 2 - Fundamentos OO\FundamentosIniciais\SemInterface\obj\Debug\net7.0\SemInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\Secao 2 - Fundamentos OO\FundamentosIniciais\SemInterface\obj\Debug\net7.0\SemInterface.AssemblyInfoInputs.cache
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\Secao 2 - Fundamentos OO\FundamentosIniciais\SemInterface\obj\Debug\net7.0\SemInterface.AssemblyInfo.cs
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\Secao 2 - Fundamentos OO\FundamentosIniciais\SemInterface\obj\Debug\net7.0\SemInterface.csproj.CoreCompileInputs.cache
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\Secao 2 - Fundamentos OO\FundamentosIniciais\SemInterface\obj\Debug\net7.0\SemInterface.dll
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\Secao 2 - Fundamentos OO\FundamentosIniciais\SemInterface\obj\Debug\net7.0\refint\SemInterface.dll
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\Secao 2 - Fundamentos OO\FundamentosIniciais\SemInterface\obj\Debug\net7.0\SemInterface.pdb
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\Secao 2 - Fundamentos OO\FundamentosIniciais\SemInterface\obj\Debug\net7.0\SemInterface.genruntimeconfig.cache
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\Secao 2 - Fundamentos OO\FundamentosIniciais\SemInterface\obj\Debug\net7.0\ref\SemInterface.dll
