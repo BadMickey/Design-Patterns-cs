@@ -1,0 +1,15 @@
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\FluentBuilder\StandardBuilder\bin\Debug\net7.0\StandardBuilder.exe
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\FluentBuilder\StandardBuilder\bin\Debug\net7.0\StandardBuilder.deps.json
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\FluentBuilder\StandardBuilder\bin\Debug\net7.0\StandardBuilder.runtimeconfig.json
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\FluentBuilder\StandardBuilder\bin\Debug\net7.0\StandardBuilder.dll
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\FluentBuilder\StandardBuilder\bin\Debug\net7.0\StandardBuilder.pdb
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\FluentBuilder\StandardBuilder\obj\Debug\net7.0\StandardBuilder.csproj.AssemblyReference.cache
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\FluentBuilder\StandardBuilder\obj\Debug\net7.0\StandardBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\FluentBuilder\StandardBuilder\obj\Debug\net7.0\StandardBuilder.AssemblyInfoInputs.cache
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\FluentBuilder\StandardBuilder\obj\Debug\net7.0\StandardBuilder.AssemblyInfo.cs
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\FluentBuilder\StandardBuilder\obj\Debug\net7.0\StandardBuilder.csproj.CoreCompileInputs.cache
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\FluentBuilder\StandardBuilder\obj\Debug\net7.0\StandardBuilder.dll
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\FluentBuilder\StandardBuilder\obj\Debug\net7.0\refint\StandardBuilder.dll
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\FluentBuilder\StandardBuilder\obj\Debug\net7.0\StandardBuilder.pdb
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\FluentBuilder\StandardBuilder\obj\Debug\net7.0\StandardBuilder.genruntimeconfig.cache
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\FluentBuilder\StandardBuilder\obj\Debug\net7.0\ref\StandardBuilder.dll

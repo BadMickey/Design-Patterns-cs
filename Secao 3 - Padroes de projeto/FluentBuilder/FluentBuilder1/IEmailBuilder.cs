@@ -1,0 +1,9 @@
+﻿namespace FluentBuilder1
+{
+    public interface IEmailBuilder
+    {
+        void MontaEnderecamento();
+        void MontaCorpoEmail();
+        EmailReport GetEmail();
+    }
+}

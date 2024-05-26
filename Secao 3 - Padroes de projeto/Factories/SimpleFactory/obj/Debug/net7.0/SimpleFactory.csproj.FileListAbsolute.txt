@@ -1,0 +1,15 @@
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\Factories\SimpleFactory\bin\Debug\net7.0\SimpleFactory.exe
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\Factories\SimpleFactory\bin\Debug\net7.0\SimpleFactory.deps.json
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\Factories\SimpleFactory\bin\Debug\net7.0\SimpleFactory.runtimeconfig.json
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\Factories\SimpleFactory\bin\Debug\net7.0\SimpleFactory.dll
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\Factories\SimpleFactory\bin\Debug\net7.0\SimpleFactory.pdb
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\Factories\SimpleFactory\obj\Debug\net7.0\SimpleFactory.csproj.AssemblyReference.cache
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\Factories\SimpleFactory\obj\Debug\net7.0\SimpleFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\Factories\SimpleFactory\obj\Debug\net7.0\SimpleFactory.AssemblyInfoInputs.cache
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\Factories\SimpleFactory\obj\Debug\net7.0\SimpleFactory.AssemblyInfo.cs
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\Factories\SimpleFactory\obj\Debug\net7.0\SimpleFactory.csproj.CoreCompileInputs.cache
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\Factories\SimpleFactory\obj\Debug\net7.0\SimpleFactory.dll
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\Factories\SimpleFactory\obj\Debug\net7.0\refint\SimpleFactory.dll
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\Factories\SimpleFactory\obj\Debug\net7.0\SimpleFactory.pdb
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\Factories\SimpleFactory\obj\Debug\net7.0\SimpleFactory.genruntimeconfig.cache
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\Factories\SimpleFactory\obj\Debug\net7.0\ref\SimpleFactory.dll

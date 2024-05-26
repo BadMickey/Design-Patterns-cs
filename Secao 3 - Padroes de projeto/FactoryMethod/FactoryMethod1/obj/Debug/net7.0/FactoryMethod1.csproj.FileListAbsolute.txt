@@ -1,0 +1,15 @@
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\FactoryMethod\FactoryMethod1\bin\Debug\net7.0\FactoryMethod1.exe
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\FactoryMethod\FactoryMethod1\bin\Debug\net7.0\FactoryMethod1.deps.json
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\FactoryMethod\FactoryMethod1\bin\Debug\net7.0\FactoryMethod1.runtimeconfig.json
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\FactoryMethod\FactoryMethod1\bin\Debug\net7.0\FactoryMethod1.dll
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\FactoryMethod\FactoryMethod1\bin\Debug\net7.0\FactoryMethod1.pdb
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\FactoryMethod\FactoryMethod1\obj\Debug\net7.0\FactoryMethod1.csproj.AssemblyReference.cache
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\FactoryMethod\FactoryMethod1\obj\Debug\net7.0\FactoryMethod1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\FactoryMethod\FactoryMethod1\obj\Debug\net7.0\FactoryMethod1.AssemblyInfoInputs.cache
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\FactoryMethod\FactoryMethod1\obj\Debug\net7.0\FactoryMethod1.AssemblyInfo.cs
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\FactoryMethod\FactoryMethod1\obj\Debug\net7.0\FactoryMethod1.csproj.CoreCompileInputs.cache
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\FactoryMethod\FactoryMethod1\obj\Debug\net7.0\FactoryMethod1.dll
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\FactoryMethod\FactoryMethod1\obj\Debug\net7.0\refint\FactoryMethod1.dll
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\FactoryMethod\FactoryMethod1\obj\Debug\net7.0\FactoryMethod1.pdb
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\FactoryMethod\FactoryMethod1\obj\Debug\net7.0\FactoryMethod1.genruntimeconfig.cache
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\FactoryMethod\FactoryMethod1\obj\Debug\net7.0\ref\FactoryMethod1.dll

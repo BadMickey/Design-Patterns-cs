@@ -1,0 +1,15 @@
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\FluentBuilder\FluentBuilder\bin\Debug\net7.0\FluentBuilder.exe
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\FluentBuilder\FluentBuilder\bin\Debug\net7.0\FluentBuilder.deps.json
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\FluentBuilder\FluentBuilder\bin\Debug\net7.0\FluentBuilder.runtimeconfig.json
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\FluentBuilder\FluentBuilder\bin\Debug\net7.0\FluentBuilder.dll
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\FluentBuilder\FluentBuilder\bin\Debug\net7.0\FluentBuilder.pdb
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\FluentBuilder\FluentBuilder\obj\Debug\net7.0\FluentBuilder.csproj.AssemblyReference.cache
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\FluentBuilder\FluentBuilder\obj\Debug\net7.0\FluentBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\FluentBuilder\FluentBuilder\obj\Debug\net7.0\FluentBuilder.AssemblyInfoInputs.cache
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\FluentBuilder\FluentBuilder\obj\Debug\net7.0\FluentBuilder.AssemblyInfo.cs
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\FluentBuilder\FluentBuilder\obj\Debug\net7.0\FluentBuilder.csproj.CoreCompileInputs.cache
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\FluentBuilder\FluentBuilder\obj\Debug\net7.0\FluentBuilder.dll
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\FluentBuilder\FluentBuilder\obj\Debug\net7.0\refint\FluentBuilder.dll
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\FluentBuilder\FluentBuilder\obj\Debug\net7.0\FluentBuilder.pdb
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\FluentBuilder\FluentBuilder\obj\Debug\net7.0\FluentBuilder.genruntimeconfig.cache
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\FluentBuilder\FluentBuilder\obj\Debug\net7.0\ref\FluentBuilder.dll

@@ -1,0 +1,15 @@
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\FluentBuilder\FluentBuilder1\bin\Debug\net7.0\FluentBuilder1.exe
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\FluentBuilder\FluentBuilder1\bin\Debug\net7.0\FluentBuilder1.deps.json
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\FluentBuilder\FluentBuilder1\bin\Debug\net7.0\FluentBuilder1.runtimeconfig.json
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\FluentBuilder\FluentBuilder1\bin\Debug\net7.0\FluentBuilder1.dll
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\FluentBuilder\FluentBuilder1\bin\Debug\net7.0\FluentBuilder1.pdb
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\FluentBuilder\FluentBuilder1\obj\Debug\net7.0\FluentBuilder1.csproj.AssemblyReference.cache
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\FluentBuilder\FluentBuilder1\obj\Debug\net7.0\FluentBuilder1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\FluentBuilder\FluentBuilder1\obj\Debug\net7.0\FluentBuilder1.AssemblyInfoInputs.cache
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\FluentBuilder\FluentBuilder1\obj\Debug\net7.0\FluentBuilder1.AssemblyInfo.cs
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\FluentBuilder\FluentBuilder1\obj\Debug\net7.0\FluentBuilder1.csproj.CoreCompileInputs.cache
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\FluentBuilder\FluentBuilder1\obj\Debug\net7.0\FluentBuilder1.dll
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\FluentBuilder\FluentBuilder1\obj\Debug\net7.0\refint\FluentBuilder1.dll
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\FluentBuilder\FluentBuilder1\obj\Debug\net7.0\FluentBuilder1.pdb
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\FluentBuilder\FluentBuilder1\obj\Debug\net7.0\FluentBuilder1.genruntimeconfig.cache
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\FluentBuilder\FluentBuilder1\obj\Debug\net7.0\ref\FluentBuilder1.dll

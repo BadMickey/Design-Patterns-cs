@@ -1,0 +1,15 @@
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\Builder\Builder\bin\Debug\net7.0\Builder_Computer.exe
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\Builder\Builder\bin\Debug\net7.0\Builder_Computer.deps.json
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\Builder\Builder\bin\Debug\net7.0\Builder_Computer.runtimeconfig.json
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\Builder\Builder\bin\Debug\net7.0\Builder_Computer.dll
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\Builder\Builder\bin\Debug\net7.0\Builder_Computer.pdb
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\Builder\Builder\obj\Debug\net7.0\Builder_Computer.csproj.AssemblyReference.cache
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\Builder\Builder\obj\Debug\net7.0\Builder_Computer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\Builder\Builder\obj\Debug\net7.0\Builder_Computer.AssemblyInfoInputs.cache
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\Builder\Builder\obj\Debug\net7.0\Builder_Computer.AssemblyInfo.cs
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\Builder\Builder\obj\Debug\net7.0\Builder_Computer.csproj.CoreCompileInputs.cache
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\Builder\Builder\obj\Debug\net7.0\Builder_Computer.dll
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\Builder\Builder\obj\Debug\net7.0\refint\Builder_Computer.dll
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\Builder\Builder\obj\Debug\net7.0\Builder_Computer.pdb
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\Builder\Builder\obj\Debug\net7.0\Builder_Computer.genruntimeconfig.cache
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\Builder\Builder\obj\Debug\net7.0\ref\Builder_Computer.dll

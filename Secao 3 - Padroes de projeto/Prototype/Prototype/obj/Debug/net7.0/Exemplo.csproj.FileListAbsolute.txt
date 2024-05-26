@@ -1,0 +1,15 @@
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\Prototype\Prototype\bin\Debug\net7.0\Exemplo.exe
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\Prototype\Prototype\bin\Debug\net7.0\Exemplo.deps.json
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\Prototype\Prototype\bin\Debug\net7.0\Exemplo.runtimeconfig.json
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\Prototype\Prototype\bin\Debug\net7.0\Exemplo.dll
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\Prototype\Prototype\bin\Debug\net7.0\Exemplo.pdb
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\Prototype\Prototype\obj\Debug\net7.0\Exemplo.csproj.AssemblyReference.cache
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\Prototype\Prototype\obj\Debug\net7.0\Exemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\Prototype\Prototype\obj\Debug\net7.0\Exemplo.AssemblyInfoInputs.cache
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\Prototype\Prototype\obj\Debug\net7.0\Exemplo.AssemblyInfo.cs
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\Prototype\Prototype\obj\Debug\net7.0\Exemplo.csproj.CoreCompileInputs.cache
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\Prototype\Prototype\obj\Debug\net7.0\Exemplo.dll
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\Prototype\Prototype\obj\Debug\net7.0\refint\Exemplo.dll
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\Prototype\Prototype\obj\Debug\net7.0\Exemplo.pdb
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\Prototype\Prototype\obj\Debug\net7.0\Exemplo.genruntimeconfig.cache
+C:\Users\Joãovirone\Documents\Projetos\Design-Patterns-cs\Prototype\Prototype\obj\Debug\net7.0\ref\Exemplo.dll
